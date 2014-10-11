@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-accounting",
+    "name": "megamitch/mot-accounting",
     "description": "Accounting module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "accounting",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Accounting/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
